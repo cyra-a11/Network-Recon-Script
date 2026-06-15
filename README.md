@@ -64,10 +64,10 @@ Open port list: [80, 443]
 ```
 
 ## Limitations
-
-No threading (slow scanning) \n
-Fixed port list \n
-Minimal error handling \n
+```
+No threading (slow scanning) 
+Fixed port list 
+Minimal error handling 
 Future Improvements
 Custom port range
 Multi-threaded scanning
@@ -77,3 +77,4 @@ Disclaimer
 
 This tool is for educational purposes only.
 Do not scan systems without permission.
+```
