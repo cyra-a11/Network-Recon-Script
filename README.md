@@ -38,5 +38,40 @@ A simple command-line tool to:
 
 ## Usage
 
+Run the tool from your terminal:
+
 ```bash
 python scanner.py
+```
+Then Type:
+```
+example.com
+```
+
+
+
+## Example Output
+
+--- Scan Result ---
+Target: example.com
+Domain: example.com
+IP: 93.184.216.34
+Ping: host is alive
+Ports scanned: 12
+Open ports: 2
+Open port list: [80, 443]
+
+## Limitations
+
+No threading (slow scanning)
+Fixed port list
+Minimal error handling
+Future Improvements
+Custom port range
+Multi-threaded scanning
+Better input validation
+Service detection (banner grabbing)
+Disclaimer
+
+This tool is for educational purposes only.
+Do not scan systems without permission.
