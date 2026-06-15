@@ -51,6 +51,7 @@ example.com
 
 
 ## Example Output
+```
 
 --- Scan Result ---
 Target: example.com
@@ -60,6 +61,7 @@ Ping: host is alive
 Ports scanned: 12
 Open ports: 2
 Open port list: [80, 443]
+```
 
 ## Limitations
 
