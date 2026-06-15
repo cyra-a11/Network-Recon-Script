@@ -5,7 +5,7 @@ A simple command-line tool to:
 - Check host availability (ping)
 - Scan common ports
 
----
+
 
 ## Features
 
@@ -24,7 +24,7 @@ A simple command-line tool to:
 - socket
 - subprocess
 
----
+
 
 ## How It Works
 
@@ -34,7 +34,7 @@ A simple command-line tool to:
 4. Scans predefined ports
 5. Outputs results
 
----
+
 
 ## Usage
 
